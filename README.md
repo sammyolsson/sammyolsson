@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Just nu
-- 🔭 Jobbar med: <kort beskrivning av projekt/område>  
+- 🔭 Jobbar med: [Portfolio/info-sida](https://github.com/sammyolsson/me)
 - 📚 Lär mig mer om: C#/.NET
 
 ---
