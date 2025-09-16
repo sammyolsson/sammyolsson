@@ -21,14 +21,3 @@
 
 ### 📫 Kontakt
 - LinkedIn: **https://www.linkedin.com/in/sammy-olsson/**
-
-<details>
-  <summary>📊 Valfritt: GitHub-statistik</summary>
-
-  <!-- Byt inte användarnamn om du heter sammyolsson på GitHub -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyolsson&show_icons=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyolsson&layout=compact)
-  
-  ![Streak](https://streak-stats.demolab.com?user=sammyolsson)
-</details>
