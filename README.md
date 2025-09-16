@@ -2,7 +2,7 @@
 
 **Software Developer på [CoreIT](https://coreit.se) med inriktining Power Platform** – jag bygger stabila och användarvänliga lösningar.
 
-- 🧩 Fokus: Frontend med **React** & **TypeScript**, solid **HTML/CSS**, samt **Azure** i molnet  
+- 🧩 Fokus: Power Platform, Frontend med **React** & **TypeScript**, solid **HTML/CSS**, samt **Azure** i molnet  
 - 🧠 Intressen: ren kod, god DX, tydlig arkitektur och pragmatisk problemlösning  
 - 🤝 Connecta gärna på **[LinkedIn](https://www.linkedin.com/in/sammy-olsson/)**
 
@@ -15,8 +15,7 @@
 
 ### 🚀 Just nu
 - 🔭 Jobbar med: <kort beskrivning av projekt/område>  
-- 📚 Lär mig mer om: <teknik/ramverk>  
-- 💬 Gillar att prata om: <områden du brinner för>
+- 📚 Lär mig mer om: C#/.NET
 
 ---
 
