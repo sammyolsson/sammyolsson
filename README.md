@@ -1,9 +1,9 @@
 # Hej! Jag heter Sammy 👋
 
-**Software Developer på [CoreIT](https://coreit.se) med inriktining Power Platform** – jag bygger stabila och användarvänliga lösningar.
+**Software Developer på [CoreIT](https://coreit.se) med inriktning på Power Platform** – jag bygger stabila och användarvänliga lösningar som gör vardagen enklare.
 
-- 🧩 Fokus: Power Platform, Frontend med **React** & **TypeScript**, solid **HTML/CSS**, samt **Azure** i molnet  
-- 🧠 Intressen: ren kod, god DX, tydlig arkitektur och pragmatisk problemlösning  
+- 🧩 Fokus: **Microsoft Power Platform** (Power Apps, Power Automate, Dataverse), **React & TypeScript**, solid **HTML/CSS** samt **Azure**
+- 🧠 Intressen: ren kod, god DX, tydlig arkitektur och pragmatisk problemlösning
 - 🤝 Connecta gärna på **[LinkedIn](https://www.linkedin.com/in/sammy-olsson/)**
 
 ---
@@ -15,9 +15,20 @@
 
 ### 🚀 Just nu
 - 🔭 Jobbar med: [Portfolio/info-sida](https://github.com/sammyolsson/me)
-- 📚 Lär mig mer om: C#/.NET
+- 📚 Lär mig mer om: **C#/.NET**
 
 ---
 
 ### 📫 Kontakt
 - LinkedIn: **https://www.linkedin.com/in/sammy-olsson/**
+
+<details>
+  <summary>📊 Valfritt: GitHub-statistik</summary>
+
+  <!-- Byt inte användarnamn om du heter sammyolsson på GitHub -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammyolsson&show_icons=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyolsson&layout=compact)
+  
+  ![Streak](https://streak-stats.demolab.com?user=sammyolsson)
+</details>
