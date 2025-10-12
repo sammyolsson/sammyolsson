@@ -1,6 +1,6 @@
 # Hej! Jag heter Sammy 👋
 
-**Systemutvecklare på [CoreIT](https://coreit.se) med inriktning på Power Platform**
+**Systemutvecklare med inriktning på Power Platform**
 
 - 🧩 Fokus: **Microsoft Power Platform** (Power Apps, Power Automate, Dataverse), **React & TypeScript**, solid **HTML/CSS** samt **Azure**
 - 🤝 Connecta gärna på **[LinkedIn](https://www.linkedin.com/in/sammy-olsson/)**
